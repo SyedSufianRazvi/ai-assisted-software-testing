@@ -1,0 +1,5 @@
+
+title,year,abstract,source_type
+Automated Unit Test Generation,2023,"This study explores automated unit test generation using large language models.",Journal
+LLM-Based API Testing,2024,"This paper investigates API test generation and evaluation using GPT models.",Conference
+Self-Healing UI Tests,2022,"This research examines flaky tests and automated test repair.",Journal
